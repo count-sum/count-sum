@@ -71,6 +71,7 @@ Previously at **ConsenSys** contributing to **Linea's ZK-Rollup** infrastructure
 | Protocol | Type | Agency | Findings | Date |
 |----------|------|--------|----------|------|
 | Paynode-contracts | — | Guild Audits | 4C 6H 9M | Q3 2025 |
+| Castr.fun | - | Kann Audits | 4H 9M 11L | Q2 2026 |
 
 > Available for private audit engagements. Reach out via Twitter or email.
 
