@@ -1,6 +1,7 @@
 # Count-Sum | Web3 Security Researcher
 
 **Independent Smart Contract Auditor & Security Researcher**  
+[![Email](https://img.shields.io/badge/Email-green)](mailto:count_sum@proton.me)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/_count_sum)
 [![Cantina](https://img.shields.io/badge/Cantina-Profile-purple?style=flat)](https://cantina.xyz/u/count-sum)
 [![Immunefi](https://img.shields.io/badge/Immunefi-Profile-orange?style=flat)](https://immunefi.com/)
@@ -68,10 +69,11 @@ Previously at **ConsenSys** contributing to **Linea's ZK-Rollup** infrastructure
 
 ## 🔒 Private Audits
 
-| Protocol | Type | Agency | Findings | Date |
-|----------|------|--------|----------|------|
-| Paynode-contracts | — | Guild Audits | 4C 6H 9M | Q3 2025 |
-| Castr.fun | - | Kann Audits | 4H 9M 11L | Q2 2026 |
+| Protocol | Type | Agency | Findings | Date | Link |
+|----------|------|--------|----------|------|-------|
+| Paynode-contracts | - | Guild Audits | 4C 6H 9M | Q3 2025 | N/A |
+| Castr.fun | - | Kann Audits | 4H 9M 11L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) |
+| N4A | - | Kann Audits | 1H 3M 6L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/N4A-security-review-2026-08-18.pdf) |
 
 > Available for private audit engagements. Reach out via Twitter or email.
 
