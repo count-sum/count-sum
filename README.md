@@ -71,9 +71,10 @@ Previously at **ConsenSys** contributing to **Linea's ZK-Rollup** infrastructure
 
 | Protocol | Agency | Findings | Date | Link |
 |----------|------|--------|----------|------|
-| Paynode-contracts | Guild Audits | 4C 6H 9M | Q3 2025 | N/A |
+| APTree | Kann Audits | Q2 2026 | 1H 4M 1L| [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf)|
 | Castr.fun | Kann Audits | 4H 9M 11L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) |
 | N4A | Kann Audits | 1H 3M 6L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/N4A-security-review-2026-08-18.pdf) |
+| Paynode-contracts | Guild Audits | 4C 6H 9M | Q3 2025 | N/A |
 
 > Available for private audit engagements. Reach out via Twitter or email.
 
@@ -81,7 +82,7 @@ Previously at **ConsenSys** contributing to **Linea's ZK-Rollup** infrastructure
 
 ## 🛠️ Technical Stack
 
-**Languages:** Solidity · Rust · TypeScript · Python  
+**Languages:** Solidity · Rust · Move · TypeScript · Python  
 **Frameworks:** Foundry · Hardhat · Anchor (Solana)  
 **Fuzzing / Analysis:** Medusa · Slither · Aderyn  
 **Chains:** EVM (Ethereum, L2s) · Solana · Linea ZK-Rollup  
