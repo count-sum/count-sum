@@ -71,7 +71,8 @@ Previously at **ConsenSys** contributing to **Linea's ZK-Rollup** infrastructure
 
 | Protocol | Agency | Findings | Date | Link |
 |----------|------|--------|----------|------|
-| APTree | Kann Audits | Q2 2026 | 1H 4M 1L| [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf)|
+| Oak Agent | Kann Audits | 2M 6L | Q4 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Oak-Agent-security-review-2026-11-17.pdf)|
+| APTree | Kann Audits | 1H 4M 1L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/APTree-security-review-2026-04-13.pdf)|
 | Castr.fun | Kann Audits | 4H 9M 11L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/Castr.fun-review-2026-08-13.pdf) |
 | N4A | Kann Audits | 1H 3M 6L | Q2 2026 | [🔗](https://github.com/Kann-Audits/Kann-Audits/blob/main/reports/pdf-format/N4A-security-review-2026-08-18.pdf) |
 | Paynode-contracts | Guild Audits | 4C 6H 9M | Q3 2025 | N/A |
